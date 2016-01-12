@@ -1,0 +1,10 @@
+E:\Учеба\Программисты\Новая папка\MITA.Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\Новая папка\MITA.Console\Model\bin\Debug\Model.dll
+E:\Учеба\Программисты\Новая папка\MITA.Console\Model\bin\Debug\Model.pdb
+E:\Учеба\Программисты\Новая папка\MITA.Console\Model\obj\Debug\Model.dll
+E:\Учеба\Программисты\Новая папка\MITA.Console\Model\obj\Debug\Model.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Model\bin\Debug\Model.dll
+E:\Учеба\Программисты\Программы\MITA.Console\Model\bin\Debug\Model.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\Программы\MITA.Console\Model\obj\Debug\Model.dll
+E:\Учеба\Программисты\Программы\MITA.Console\Model\obj\Debug\Model.pdb

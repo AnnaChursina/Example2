@@ -1,0 +1,16 @@
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\bin\Debug\Utils.exe.config
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\bin\Debug\Utils.exe
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\bin\Debug\Utils.pdb
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\bin\Debug\Model.dll
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\bin\Debug\Model.pdb
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\obj\Debug\Utils.exe
+E:\Учеба\Программисты\Новая папка\MITA.Console\Utils\obj\Debug\Utils.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\bin\Debug\Utils.exe.config
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\obj\Debug\Utils.exe
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\obj\Debug\Utils.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\bin\Debug\Utils.exe
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\bin\Debug\Utils.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\bin\Debug\Model.dll
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\bin\Debug\Model.pdb
+E:\Учеба\Программисты\Программы\MITA.Console\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
